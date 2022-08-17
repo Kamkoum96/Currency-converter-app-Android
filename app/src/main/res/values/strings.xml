@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <string-array name="currencies1">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>TND</item>
+    </string-array>
+
+    <string-array name="currencies2">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>TND</item>
+    </string-array>
+</resources>
